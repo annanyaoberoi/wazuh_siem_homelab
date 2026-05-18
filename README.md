@@ -143,16 +143,16 @@ Analyzed **39 total events** over 24 hours. Key rules triggered:
 ![Full Dashboard](screenshots/05_threat_hunting_full.png)
 
 ### Event Log — 39 Hits (Audit Log Cleared, Agent Events)
-![Events](screenshots/06_event_logs.png)
+![Events](06_event_logs.webp)
 
 ### MITRE ATT&CK Dashboard
-![MITRE](screenshots/07_mitre_attck.png)
+![MITRE](07_mitre_attack.webp)
 
 ### PCI DSS Compliance
-![PCI DSS](screenshots/08_pci_dss.png)
+![PCI DSS](08_pci_dss.webp)
 
 ### Configuration Assessment (CIS Benchmark)
-![CIS](screenshots/09_config_assessment.png)
+![CIS](09_config_assesment.webp)
 
 ---
 
