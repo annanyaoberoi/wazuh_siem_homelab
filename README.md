@@ -128,19 +128,19 @@ Analyzed **39 total events** over 24 hours. Key rules triggered:
 ## 📸 Screenshots
 
 ### Overview Dashboard
-![Overview](screenshots/01_overview_dashboard.png)
+![Overview](01_dasboard_overview.webp)
 
 ### Endpoints — Active Agent
-![Endpoints](screenshots/02_endpoints.png)
+![Endpoints](02_endpoints.webp)
 
 ### Threat Hunting — Authentication Failed
-![Auth Failed](screenshots/03_threat_hunting_auth_failed.png)
+![Auth Failed](03_threathunting_auth-failed.webp)
 
 ### Threat Hunting — Agent Stopped
-![Agent Stopped](screenshots/04_threat_hunting_agent_stopped.png)
+![Agent Stopped](04_threathunting_agent-stopped.webp)
 
 ### Threat Hunting — Full Dashboard (33 total alerts)
-![Full Dashboard](screenshots/05_threat_hunting_full.png)
+![Full Dashboard](05_threathunting_full.webp)
 
 ### Event Log — 39 Hits (Audit Log Cleared, Agent Events)
 ![Events](06_event_logs.webp)
